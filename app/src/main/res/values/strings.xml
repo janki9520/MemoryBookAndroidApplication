@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">MemoryBookProject</string>
+    <string name="title_activity_welcome">Home Screen</string>
+
+    <!--Intro slider screens-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="date">Date</string>
+    <string name="slide_1_title">MEMORY BOOK</string>
+
+    <string name="slide_2_title">Your Private Journals</string>
+    <string name="slide_2_desc">Create &amp; customize journals for everything in your life.</string>
+
+    <string name="slide_3_title">Cherish the Best Moments</string>
+    <string name="slide_3_desc">Revisit greatest moments of your life journey through photo and description view.</string>
+
+    <string name="slide_4_title">Rich Entries</string>
+    <string name="slide_4_desc">Add photo and choose fonts from settings to make your journals your own.</string>
+
+    <!--Login and Sign up screens-->
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_register">Register</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered!</string>
+    <string name="btn_link_to_login">Already registered. Log In!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="changeFontFamily">Change Font Family</string>
+    <string name="changeFontSize">Change Font Size</string>
+    <string name="back_button">Back</string>
+    <string name="font_select">Select Font Family</string>
+    <string name="size_select">Select Font Size</string>
+    <string name="font_opensans">Open Sans Condensed</string>
+    <string name="font_roboto">Roboto</string>
+    <string name="font_vollkorn">Vollkorn SC</string>
+    <string name="font_dosis">Dosis</string>
+    <string name="font_josefinSans">Josefin Sans</string>
+    <string name="change_btn">CHANGE</string>
+    <string name="fontSmall">Font Size Small</string>
+    <string name="fontMedium">Font Size Medium</string>
+    <string name="fontLarge">Font Size Large</string>
+    <string name="storage_permission">Need storage permission</string>
+    <string name="font_family_title">Select Font Family</string>
+    <string name="font_size_title">Select Font Size</string>
+    <string name="action_logout">Logout</string>
+</resources>

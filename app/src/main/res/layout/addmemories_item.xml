@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal"
+              android:padding="5dp"
+              android:weightSum="40"
+    android:gravity="center_vertical">
+
+    <ImageView
+        android:id="@+id/ivMemoryImage"
+        android:layout_height="100dp"
+        android:layout_width="100dp"
+        android:minWidth="100dp"
+        android:minHeight="100dp"
+        android:scaleType="fitCenter"
+        android:layout_weight="5"
+        android:layout_gravity="center_vertical"
+        android:contentDescription=""/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:orientation="vertical"
+        android:gravity="fill"
+        android:weightSum="10"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/memoryDateDisplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="Memory Date"
+            android:textStyle="bold"
+            android:textSize="17sp"
+            android:textColor="@android:color/holo_blue_dark"/>
+
+        <TextView
+            android:id="@+id/myTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:text="Memory Title"
+            android:textColor="@android:color/black"
+            android:inputType="textFilter|textMultiLine"
+            android:textSize="15sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/myTextViewDescrip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="7"
+            android:text="Memory Description"
+            android:textSize="14sp"
+            android:maxLines="10"
+            android:ems="15"
+            android:inputType="textFilter|textMultiLine"
+            android:textColor="@android:color/black"/>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
+

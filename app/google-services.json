@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26436846099",
+    "firebase_url": "https://memorybookproject-c47b5.firebaseio.com",
+    "project_id": "memorybookproject-c47b5",
+    "storage_bucket": "memorybookproject-c47b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26436846099:android:3854d50fd760c5cd",
+        "android_client_info": {
+          "package_name": "com.patel.memorybookproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26436846099-167ojrpr87llkno3cv9psef5pjjfr2bf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patel.memorybookproject",
+            "certificate_hash": "8d65fd8200679bce7e8a42e59ef144806a339e3c"
+          }
+        },
+        {
+          "client_id": "26436846099-miu7eetchknq54o3bs0v88pvh3htnnv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABBLixPIRui1a5IHTprH0-mGXItnBpH0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26436846099-miu7eetchknq54o3bs0v88pvh3htnnv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
